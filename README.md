@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuCiFeR-ICanCode ( Prathamesh Hajare )
+- 👋 Hi, I’m @Prathamesh Hajare
 - 👀 I’m interested in Web Development, DSA, OS, AI, Data Science ans ML
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
